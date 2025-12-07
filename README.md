@@ -1,0 +1,1 @@
+Standalone files where I practice coding to keep my skills sharp, refresh my knowledge of data structures and algorithms, and solve some interesting coding challenges. 
